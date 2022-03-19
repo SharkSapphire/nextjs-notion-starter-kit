@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'SweetShark\'Open Home”,
+  name: 'SweetShark\'Open Home‘,
   domain: 'https://www.notion.so/SweetShark-s-Open-Home-14f625e2bcc747a1bab2231b908545b5',
   author: 'Sapphire',
 
