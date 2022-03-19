@@ -7,11 +7,11 @@
       "type": "image/png",
       "sizes": "16x16"
     },
-//    {
-//      "src": "/favicon-32x32.png",
-//      "type": "image/png",
-//      "sizes": "32x32"
-//    },
+    {
+      "src": "/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
     {
       "src": "/ss-96x96.png",
       "type": "image/png",
