@@ -3,17 +3,17 @@
   "short_name": "Transitive BS",
   "icons": [
     {
-      "src": "/ss-16x16.png",
+      "src": "/favicon-16x16.png",
       "type": "image/png",
       "sizes": "16x16"
     },
     {
-      "src": "/ss-32x32.png",
+      "src": "/favicon-32x32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/ss-96x96.png",
+      "src": "/favicon-96x96.png",
       "type": "image/png",
       "sizes": "96x96"
  //   },
